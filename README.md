@@ -46,8 +46,11 @@ A total of all transaction fees from any transactions in the program will be sho
 and the program will go back to the main welcoming screen.
 
 If User Press 3:
-A total of the amount of all money transfered will be shown and the program will go back to the 
-main welcoming screen.
+
+   A total of the amount of all money transfered will be shown and the program will go back to the 
+   main welcoming screen.
+   
+   
 ----------------------------------------------------
 
 In case of Pressing 2 you will be welcomed by: 
